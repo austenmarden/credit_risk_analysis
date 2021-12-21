@@ -45,5 +45,5 @@ In all of the following examples, we have cleaned the data and identified the 'L
 
 ## Summary:
 
-With the largest risk factor in determining credit risk being a credit applicant of high risk being approved as if they were low risk, our main objective in testing our models is to determine overall model accuracy and the sensitivity (recall) of the models "Hish Risk" identifier. After reviewing all models tested, the recommendation would be to use the Easy Ensamble Classifier method. With an Accuracy Score of 93% and a "High Risk" sensitivity of 92%, none of the other models are able to as accurately predict the number of High Risk applicants within a pool this large.
+With the largest risk factor in determining credit risk being a credit applicant of high risk being approved as if they were low risk, our main objective in testing our models is to determine overall model accuracy and the sensitivity (recall) of the models "High Risk" identifier. After reviewing all models tested, the recommendation would be to use the Easy Ensemble Classifier method. With an Accuracy Score of 93% and a "High Risk" sensitivity of 92%, none of the other models are able to as accurately predict the number of High Risk applicants within a pool this large.
 
