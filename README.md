@@ -42,7 +42,6 @@ In all of the following examples, we have cleaned the data and identified the 'L
 
 -   Easy Ensamble Classifier
     ![eec](./images/eec.PNG)
-    -   overfit model possibly
 
 ## Summary:
 
